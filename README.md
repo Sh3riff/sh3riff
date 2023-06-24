@@ -6,7 +6,7 @@ I am an experienced and passionate software engineer with a business-oriented mi
 
 ### 🤝🏻 &nbsp;Connect with Me
 [![linkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/olowolagba-sheriff/)
-[![linkedIn](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sh3riff_me)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sh3riff_me)
 
 ### Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,go,aws,mysql,mongo)](https://skillicons.dev)
