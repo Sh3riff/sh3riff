@@ -12,7 +12,8 @@ I am an experienced and passionate software engineer with a business-oriented mi
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,go,aws,mysql,mongo)](https://skillicons.dev)
 
 ### Contributions
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sh3riff&theme=chartreuse-dark" /> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sh3riff&theme=chartreuse-dark" />
+
 
 ### Statistics
 <p align="center">
