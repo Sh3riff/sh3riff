@@ -9,7 +9,7 @@ I am an experienced and passionate software engineer with a business-oriented mi
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sh3riff_me)
 
 ### Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,go,aws,mysql,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,go,swift,aws,docker,postgres,mysql,mongo)](https://skillicons.dev)
 
 ### Contributions
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh3riff&theme=chartreuse-dark" />
