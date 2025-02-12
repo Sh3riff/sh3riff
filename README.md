@@ -2,7 +2,7 @@
 
 ### 🚀 About me
 
-I am an experienced and passionate software engineer with a business-oriented mindset. I thrive on building user-centric solutions using cutting-edge technologies like React, React Native, Node.js, and Go. With expertise in open source development and AWS certification, I ensure efficient and scalable solutions for diverse projects. Equipped with a versatile toolset, I'm ready to tackle any challenge and deliver exceptional results.
+I am an experienced and passionate software engineer with a business-oriented mindset. I thrive on building user-centric solutions using cutting-edge technologies. With expertise in open source development and AWS certification, I ensure efficient and scalable solutions for diverse projects. Equipped with a versatile toolset, I'm ready to tackle any challenge and deliver exceptional results.
 
 ### 🤝🏻 &nbsp;Connect with Me
 [![linkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/olowolagba-sheriff/)
